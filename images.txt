@@ -1,2 +1,3 @@
 mlikiowa/napcat-docker:latest
 idootop/mi-gpt:latest
+idootop/mi-gpt-tts:latest
