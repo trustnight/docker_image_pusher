@@ -1,3 +1,4 @@
 mlikiowa/napcat-docker:latest
 mongo:latest
 sengokucola/maimbot:latest
+maple127667/maimbot-adapter:latest
