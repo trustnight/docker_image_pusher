@@ -1,2 +1,4 @@
 mlikiowa/napcat-docker:latest
+sengokucola/maibot:latest
 unclas/maimbot-adapter:latest
+coleifer/sqlite-web
