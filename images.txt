@@ -5,3 +5,4 @@ unclas/maimbot-adapter:latest
 unclas/maimbot-adapter:dev
 coleifer/sqlite-web
 chat2db/chat2db:latest
+itzg/minecraft-server:latest
