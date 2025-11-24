@@ -1,8 +1,11 @@
-mlikiowa/napcat-docker:latest
-sengokucola/maibot:latest
-sengokucola/maibot:dev
-unclas/maimbot-adapter:latest
-unclas/maimbot-adapter:dev
-coleifer/sqlite-web
-chat2db/chat2db:latest
-itzg/minecraft-server:latest
+# mlikiowa/napcat-docker:latest
+# sengokucola/maibot:latest
+# sengokucola/maibot:dev
+# unclas/maimbot-adapter:latest
+# unclas/maimbot-adapter:dev
+# coleifer/sqlite-web
+# chat2db/chat2db:latest
+# itzg/minecraft-server:latest
+postgres:latest
+redis:latest
+calciumion/new-api:latest
