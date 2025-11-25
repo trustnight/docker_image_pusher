@@ -6,6 +6,7 @@
 # coleifer/sqlite-web
 # chat2db/chat2db:latest
 # itzg/minecraft-server:latest
-postgres:15
+nginx:alpine
+# postgres:15
 # redis:latest
 # calciumion/new-api:latest
