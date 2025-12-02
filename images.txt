@@ -1,5 +1,5 @@
 #mlikiowa/napcat-docker:latest
-#sengokucola/maibot:latest
+sengokucola/maibot:latest
 sengokucola/maibot:dev
 #unclas/maimbot-adapter:latest
 #unclas/maimbot-adapter:dev
