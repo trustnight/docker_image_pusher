@@ -1,11 +1,11 @@
-mlikiowa/napcat-docker:latest
-sengokucola/maibot:latest
-sengokucola/maibot:dev
-coleifer/sqlite-web
+#mlikiowa/napcat-docker:latest
+#sengokucola/maibot:latest
+#sengokucola/maibot:dev
+#coleifer/sqlite-web
 # chat2db/chat2db:latest
 # itzg/minecraft-server:latest
 # nginx:alpine
 # postgres:15
 # redis:latest
-calciumion/new-api:latest
+#calciumion/new-api:latest
 gvenzl/oracle-xe:21-slim-faststart
