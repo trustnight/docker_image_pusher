@@ -8,3 +8,4 @@ coleifer/sqlite-web
 # postgres:15
 # redis:latest
 calciumion/new-api:latest
+gvenzl/oracle-xe:21-slim-faststart
