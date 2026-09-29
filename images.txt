@@ -1,4 +1,5 @@
-mlikiowa/napcat-docker:latest
+#mlikiowa/napcat-docker:latest
+motricseven7/snowluma:latest
 sengokucola/maibot:latest
 #sengokucola/maibot:dev
 coleifer/sqlite-web
